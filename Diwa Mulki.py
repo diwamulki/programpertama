@@ -1,0 +1,5 @@
+print ('program pertama')
+print('Nama saya Diwa Mulki' ) 
+print('AIR DEKAT RT 009/RW 000 KEC.SIMPANG PESAK KAB.BELITUNG TIMUR')
+print('Hobi saya bermain basket dan taekwondow')
+print('Saya berasal dari sma negri 1 simpang pesak')
